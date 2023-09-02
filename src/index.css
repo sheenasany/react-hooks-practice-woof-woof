@@ -26,7 +26,7 @@
 }
 
 #dog-bar span {
-  height: 80%;
+  height: 90px;
   width: 8vw;
   display: flex;
   justify-content: center;
